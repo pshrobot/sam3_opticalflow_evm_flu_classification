@@ -147,8 +147,6 @@ python create_lightgbm_features.py \
   --output_dir output/features
 ```
 
-> **Note**: EVM 피처를 결합하려면 스크립트 수정 필요. 현재는 원본 optical flow만 지원.
-
 ### Step 6. 모델 학습
 
 LightGBM 분류기 학습:
