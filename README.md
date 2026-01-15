@@ -1,4 +1,4 @@
-# SVI - Smart Poultry Visual Intelligence
+# SVI - Static camera Visual Intelligence
 
 양계장 CCTV 영상 기반 닭 건강 상태 분류 시스템
 
